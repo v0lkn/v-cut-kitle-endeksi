@@ -1,0 +1,19 @@
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut_Endeksi.Form1.resources
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut_Endeksi.Properties.Resources.resources
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\bin\Debug\net5.0-windows\Vücut Endeksi.exe
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\bin\Debug\net5.0-windows\Vücut Endeksi.deps.json
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\bin\Debug\net5.0-windows\Vücut Endeksi.runtimeconfig.json
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\bin\Debug\net5.0-windows\Vücut Endeksi.runtimeconfig.dev.json
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\bin\Debug\net5.0-windows\Vücut Endeksi.dll
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\bin\Debug\net5.0-windows\ref\Vücut Endeksi.dll
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\bin\Debug\net5.0-windows\Vücut Endeksi.pdb
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.dll
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\ref\Vücut Endeksi.dll
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.pdb
+C:\Users\Kaan\Desktop\Ders\NTP\Vücut Endeksi\Vücut Endeksi\obj\Debug\net5.0-windows\Vücut Endeksi.genruntimeconfig.cache

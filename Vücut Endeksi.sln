@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vücut Endeksi", "Vücut Endeksi\Vücut Endeksi.csproj", "{63A6638D-6B2C-4164-8E6B-75AFDC7768FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A6638D-6B2C-4164-8E6B-75AFDC7768FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A6638D-6B2C-4164-8E6B-75AFDC7768FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A6638D-6B2C-4164-8E6B-75AFDC7768FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A6638D-6B2C-4164-8E6B-75AFDC7768FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06AA953-D922-4E8D-BD9C-8C170D193FBC}
+	EndGlobalSection
+EndGlobal
