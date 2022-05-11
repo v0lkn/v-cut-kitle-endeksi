@@ -1,0 +1,11 @@
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.BiletAl.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.Form1.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.Form2.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.Form3.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.Properties.Resources.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Release\net5.0-windows\OtobüsBiletSatış.csproj.CoreCompileInputs.cache

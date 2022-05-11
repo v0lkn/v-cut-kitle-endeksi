@@ -1,0 +1,31 @@
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans_Ödevim.Ana.resources
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans_Ödevim.BiletAl.resources
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans_Ödevim.Filo.resources
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans_Ödevim.Giriş.resources
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans_Ödevim.Kayıt.resources
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans_Ödevim.Şube.resources
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\Performans Ödevim.exe
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\Performans Ödevim.deps.json
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\Performans Ödevim.runtimeconfig.json
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\Performans Ödevim.runtimeconfig.dev.json
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\Performans Ödevim.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\ref\Performans Ödevim.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\Performans Ödevim.pdb
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.csproj.CopyComplete
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\ref\Performans Ödevim.dll
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.pdb
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans Ödevim.genruntimeconfig.cache
+C:\Users\Kaan\Desktop\Performans Ödevim\Performans Ödevim\Performans Ödevim\obj\Debug\net5.0-windows\Performans_Ödevim.Properties.Resources.resources

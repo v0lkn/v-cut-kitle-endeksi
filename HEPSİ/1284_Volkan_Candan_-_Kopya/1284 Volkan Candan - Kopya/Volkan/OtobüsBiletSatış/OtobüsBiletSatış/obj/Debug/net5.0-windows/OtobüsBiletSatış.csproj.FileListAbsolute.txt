@@ -1,0 +1,84 @@
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.exe
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.deps.json
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.runtimeconfig.json
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.runtimeconfig.dev.json
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\ref\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.pdb
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form1.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\ref\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.pdb
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.genruntimeconfig.cache
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.BiletAl.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form2.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form3.resources
+C:\Users\Kaan\Desktop\1284 Volkan Candan\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Properties.Resources.resources
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.AssemblyReference.cache
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.BiletAl.resources
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form1.resources
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form2.resources
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form3.resources
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Properties.Resources.resources
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.GenerateResource.cache
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.AssemblyInfoInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.AssemblyInfo.cs
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.CoreCompileInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\ref\OtobüsBiletSatış.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.pdb
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.exe
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.deps.json
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.runtimeconfig.json
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.runtimeconfig.dev.json
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\ref\OtobüsBiletSatış.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.pdb
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.CopyComplete
+C:\Users\ARDA KIRPAN\Desktop\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.genruntimeconfig.cache
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.exe
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.deps.json
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.runtimeconfig.json
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.runtimeconfig.dev.json
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\ref\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\OtobüsBiletSatış.pdb
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.BiletAl.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form1.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form2.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form3.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Properties.Resources.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.AssemblyInfoInputs.cache
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.AssemblyInfo.cs
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.csproj.CopyComplete
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\ref\OtobüsBiletSatış.dll
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.pdb
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.genruntimeconfig.cache
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form4.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form5.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Form6.resources
+C:\Users\Kaan\Desktop\1284_Volkan_Candan_-_Kopya\1284 Volkan Candan - Kopya\Volkan\OtobüsBiletSatış\OtobüsBiletSatış\obj\Debug\net5.0-windows\OtobüsBiletSatış.Anaform.resources
